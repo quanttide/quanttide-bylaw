@@ -6,14 +6,14 @@
 
 ### 项目定位
 
-量潮章程（quanttide-bylaw）是量潮知识管理体系中章程的**聚合容器**（主体轴/Who it is），采用 Git 子模块架构聚合各法人主体的章程仓库。
+量潮章程（quanttide-bylaw）是量潮知识管理体系中章程的**聚合容器**（主体轴/Who it is + 领域轴/What it expresses），采用 Git 子模块架构聚合各法人主体与领域的章程仓库。
 
 ### 子模块管理
 
 - 子模块独立维护，本仓库只追踪引用指针
 - **禁止**：直接在父仓库修改子模块文件
 - **必须**：在子模块仓库独立提交推送，父仓库只更新引用
-- **新增子模块**：`git submodule add <url> default/<path>`，并同步更新 README.md 结构树与 CHANGELOG.md
+- **新增子模块**：`git submodule add <url> default/<path>`（主体章程）或 `domains/<path>`（领域章程），并同步更新 README.md 结构树与 CHANGELOG.md
 
 ## 人机协作范式
 

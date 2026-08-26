@@ -1,3 +1,15 @@
 [submodule "default/company"]
 	path = default/company
 	url = https://github.com/quanttide/quanttide-bylaw-of-business-entity.git
+[submodule "domains/asset"]
+	path = domains/asset
+	url = https://github.com/quanttide/quanttide-bylaw-of-asset-management.git
+[submodule "domains/data"]
+	path = domains/data
+	url = https://github.com/quanttide/quanttide-bylaw-of-data-engineering.git
+[submodule "domains/delib"]
+	path = domains/delib
+	url = https://github.com/quanttide/quanttide-bylaw-of-deliberation-management.git
+[submodule "domains/devops"]
+	path = domains/devops
+	url = https://github.com/quanttide/quanttide-bylaw-of-devops.git
