@@ -13,3 +13,6 @@
 [submodule "domains/devops"]
 	path = domains/devops
 	url = https://github.com/quanttide/quanttide-bylaw-of-devops.git
+[submodule "domains/docs"]
+	path = domains/docs
+	url = https://github.com/quanttide/quanttide-bylaw-of-document-engineering.git

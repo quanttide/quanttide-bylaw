@@ -15,6 +15,7 @@ quanttide-bylaw/
 │   ├── asset            → 资产管理章程（quanttide-bylaw-of-asset-management）
 │   ├── data             → 数据工程章程（quanttide-bylaw-of-data-engineering）
 │   ├── delib            → 议事管理章程（quanttide-bylaw-of-deliberation-management）
+│   ├── docs             → 文档工程章程（quanttide-bylaw-of-document-engineering）
 │   └── devops           → DevOps 工程章程（quanttide-bylaw-of-devops）
 ├── README.md            → 本文件
 ├── AGENTS.md            → Agent 工作指南
