@@ -16,3 +16,4 @@
 - 注册子模块：`default/company`（法人主体章程，quanttide-bylaw-of-business-entity）
 - 注册子模块：`domains/asset`、`domains/data`、`domains/delib`、`domains/devops`（4 个领域章程仓库）
 - 注册子模块：`domains/docs`（文档工程章程，quanttide-bylaw-of-document-engineering）
+- 注册子模块：`domains/meta`（元工程章程，quanttide-bylaw-of-philosophy）
