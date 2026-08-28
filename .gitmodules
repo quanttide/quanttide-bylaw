@@ -19,3 +19,6 @@
 [submodule "domains/meta"]
 	path = domains/meta
 	url = https://github.com/quanttide/quanttide-bylaw-of-philosophy.git
+[submodule "domains/product"]
+	path = domains/product
+	url = https://github.com/quanttide/quanttide-bylaw-of-product-development.git
