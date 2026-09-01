@@ -22,3 +22,6 @@
 [submodule "domains/product"]
 	path = domains/product
 	url = https://github.com/quanttide/quanttide-bylaw-of-product-development.git
+[submodule "domains/human"]
+	path = domains/human
+	url = https://github.com/quanttide/quanttide-bylaw-of-human-resources.git

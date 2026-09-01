@@ -13,6 +13,7 @@
 ### 新增
 
 - 参考主仓库结构初始化聚合容器：README.md、AGENTS.md、CHANGELOG.md、CONTRIBUTING.md、ROADMAP.md、LICENSE（Apache 2.0）、.gitignore
+- 注册子模块：`domains/human`（人力资源章程，quanttide-bylaw-of-human-resources）
 - 注册子模块：`default/company`（法人主体章程，quanttide-bylaw-of-business-entity）
 - 注册子模块：`domains/asset`、`domains/data`、`domains/delib`、`domains/devops`（4 个领域章程仓库）
 - 注册子模块：`domains/docs`（文档工程章程，quanttide-bylaw-of-document-engineering）
