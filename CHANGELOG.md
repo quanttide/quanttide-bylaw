@@ -10,6 +10,8 @@
 
 ## [Unreleased]
 
+- 注册营销管理章程：`domains/market` → quanttide-bylaw-of-market-management
+
 ### 新增
 
 - 参考主仓库结构初始化聚合容器：README.md、AGENTS.md、CHANGELOG.md、CONTRIBUTING.md、ROADMAP.md、LICENSE（Apache 2.0）、.gitignore

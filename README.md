@@ -18,6 +18,7 @@ quanttide-bylaw/
 │   ├── docs             → 文档工程章程（quanttide-bylaw-of-document-engineering）
 │   ├── devops           → DevOps 工程章程（quanttide-bylaw-of-devops）
 │   ├── human            → 人力资源章程（quanttide-bylaw-of-human-resources）
+│   ├── market           → 营销管理章程（quanttide-bylaw-of-market-management）
 │   ├── meta             → 元工程章程（quanttide-bylaw-of-meta-engineering）
 │   └── product          → 产品研发章程（quanttide-bylaw-of-product-development）
 ├── README.md            → 本文件
