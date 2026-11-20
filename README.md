@@ -21,7 +21,6 @@ quanttide-bylaw/
 │   ├── market           → 营销管理章程（quanttide-bylaw-of-market-management）
 │   ├── meta             → 元工程章程（quanttide-bylaw-of-meta-engineering）
 │   └── product          → 产品研发章程（quanttide-bylaw-of-product-development）
-├── qtclass/            → 量潮课堂章程（仓内直接维护，非子模块）
 ├── README.md            → 本文件
 ├── AGENTS.md            → Agent 工作指南
 ├── CHANGELOG.md         → 版本变更记录
