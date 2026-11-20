@@ -11,6 +11,7 @@
 ## [Unreleased]
 
 - 注册营销管理章程：`domains/market` → quanttide-bylaw-of-market-management
+- 新增教学实践章程：`qtclass/practice.md`（自语境仓库归位，合同格式转章程格式）
 
 ### 新增
 
